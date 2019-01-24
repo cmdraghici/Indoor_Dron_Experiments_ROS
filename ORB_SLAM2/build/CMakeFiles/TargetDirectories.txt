@@ -1,0 +1,9 @@
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/edit_cache.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/rebuild_cache.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/mono_euroc.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/mono_kitti.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/mono_tum.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/ORB_SLAM2.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/rgbd_tum.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/stereo_kitti.dir
+/home/cezar/ros_ws/ORB_SLAM2/build/CMakeFiles/stereo_euroc.dir
