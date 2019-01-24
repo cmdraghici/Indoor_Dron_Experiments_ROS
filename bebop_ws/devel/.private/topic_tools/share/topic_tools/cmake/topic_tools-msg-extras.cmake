@@ -1,2 +1,0 @@
-set(topic_tools_MESSAGE_FILES "")
-set(topic_tools_SERVICE_FILES "/home/cezar/bebop_ws/src/topic_tools/srv/MuxAdd.srv;/home/cezar/bebop_ws/src/topic_tools/srv/MuxDelete.srv;/home/cezar/bebop_ws/src/topic_tools/srv/MuxList.srv;/home/cezar/bebop_ws/src/topic_tools/srv/MuxSelect.srv;/home/cezar/bebop_ws/src/topic_tools/srv/DemuxAdd.srv;/home/cezar/bebop_ws/src/topic_tools/srv/DemuxDelete.srv;/home/cezar/bebop_ws/src/topic_tools/srv/DemuxList.srv;/home/cezar/bebop_ws/src/topic_tools/srv/DemuxSelect.srv")
