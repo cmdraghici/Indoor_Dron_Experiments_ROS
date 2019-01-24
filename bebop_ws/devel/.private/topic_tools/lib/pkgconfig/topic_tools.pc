@@ -1,0 +1,8 @@
+prefix=/home/cezar/bebop_ws/devel/.private/topic_tools
+
+Name: topic_tools
+Description: Description of topic_tools
+Version: 1.14.3
+Cflags: -I/home/cezar/bebop_ws/devel/.private/topic_tools/include -I/home/cezar/bebop_ws/src/topic_tools/include
+Libs: -L/home/cezar/bebop_ws/devel/.private/topic_tools/lib -ltopic_tools
+Requires: message_runtime rosconsole roscpp std_msgs xmlrpcpp

@@ -1,0 +1,6 @@
+devel_space: /home/cezar/bebop_ws/devel
+install: false
+install_space: /home/cezar/bebop_ws/install
+profile: default
+source_space: /home/cezar/bebop_ws/src
+workspace: /home/cezar/bebop_ws
